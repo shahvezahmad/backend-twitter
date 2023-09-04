@@ -1,7 +1,7 @@
 # backend-twitter
 Creating the backend of Twitter from scratch
 
-## Features
+## Features 
 
 - Fully responsive
 - Sign up/ Sign in via JWT Token
