@@ -15,4 +15,4 @@ Creating the backend of Twitter from scratch
 - Delete tweets and comments
 - Tweets filtered according to "Topics"
 - Add custom avatars
-- Tweet images by easily adding Image URLs
+- Tweet images
