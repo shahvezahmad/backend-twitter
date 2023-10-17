@@ -5,6 +5,10 @@ require("dotenv").config();
 app.use("/images", express.static("images"));
 app.use(express.json());
 
+const route = require("./Routes/route");
+
+app.use("/api", route);
+
 const PORT = process.env.PORT;
 
 const connectWithDb = require("./Config/database");

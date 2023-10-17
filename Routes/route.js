@@ -7,8 +7,8 @@ const {signIn, signUp} = require("../Controllers/authController");
 
 //create mapping
 
-router.post("/", signIn);
-router.post("/signup", signUp)
+router.post("/signin", signIn);
+router.post("/signup", signUp);
 
 
 
